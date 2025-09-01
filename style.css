@@ -11,6 +11,10 @@ body{
 
 }
 
+.btn{
+  cursor:pointer;
+}
+
 .btn-container{
   display:flex;
   justify-content:center;
@@ -30,4 +34,12 @@ body{
 
 .green{
   background-color:#63aac0;
+}
+
+.flash{
+  background-color: white;
+}
+
+.userflash{
+  background-color:green;
 }
